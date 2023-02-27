@@ -29,6 +29,10 @@ import com.example.android.networkconnect.R;
 import com.example.android.networkconnect.home.DownloadCallback;
 import com.example.android.networkconnect.home.view.NetworkFragment;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 /**
  * Sample Activity demonstrating how to connect to the network and fetch raw
  * HTML. It uses a Fragment that encapsulates the network operations on an AsyncTask.
@@ -38,6 +42,7 @@ import com.example.android.networkconnect.home.view.NetworkFragment;
 public class MainActivity extends FragmentActivity implements DownloadCallback {
 
     private String RICK_AND_MORTY_API = "https://rickandmortyapi.com/api/character";
+    private String GOOGLE = "https://www.google.com";
 
     // Reference to the TextView showing fetched data, so we can clear it with a button
     // as necessary.
@@ -96,6 +101,18 @@ public class MainActivity extends FragmentActivity implements DownloadCallback {
             mDataText.setText(result);
         } else {
             mDataText.setText(getString(R.string.connection_error));
+        }
+    }
+
+    public String getName(String json) {
+        try {
+            JSONObject info = new JSONObject(json).getJSONObject("info");
+            String next = info.getString("next");
+//            JSONArray results = info.getJSONArray("results");
+//            return data.getJSONArray("results").getJSONObject(0).getString("name");
+            return next;
+        } catch (JSONException e) {
+            return getString(R.string.clear_string);
         }
     }
 

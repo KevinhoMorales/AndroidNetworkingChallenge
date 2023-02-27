@@ -7,6 +7,7 @@ MERGED from [com.android.support:support-v13:28.0.0] /Users/kevinhomorales/.grad
 MERGED from [com.android.support:support-v4:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/89ae027a879d938234c4f132475e135e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/98b0effcc566ee655717b1251c06aa83/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/373b5e5d8f363b60952ba8ec6c18d27b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/8632bd6d79b67e2dc50b766624acca19/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/37a3116dff6f5643c0841731b586f52c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/6f0d8aedee57d496e32e8400e9b737a4/AndroidManifest.xml:17:1-22:12
@@ -103,6 +104,8 @@ MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kevinhomorales/.grad
 MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/98b0effcc566ee655717b1251c06aa83/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/373b5e5d8f363b60952ba8ec6c18d27b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/373b5e5d8f363b60952ba8ec6c18d27b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/8632bd6d79b67e2dc50b766624acca19/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/8632bd6d79b67e2dc50b766624acca19/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/37a3116dff6f5643c0841731b586f52c/AndroidManifest.xml:20:5-44

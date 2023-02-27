@@ -22,5 +22,5 @@
     <string name="clear_text">Clear</string>
     <string name="connection_error">Connection error.</string>
     <string name="fetch_cancelled">Fetch cancelled.</string>
-    <string name="clear_string"></string>
+    <string name="clear_string" />
 </resources>

@@ -30,6 +30,7 @@ import com.example.android.networkconnect.home.DownloadCallback;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.StringWriter;
 import java.net.URL;
 
 import javax.net.ssl.HttpsURLConnection;
@@ -243,7 +244,7 @@ public class NetworkFragment extends Fragment {
                 publishProgress(DownloadCallback.Progress.GET_INPUT_STREAM_SUCCESS, 0);
                 if (stream != null) {
                     // Converts Stream to String with max length of 500.
-                    result = readStream(stream, 500);
+                    result = readStream(stream, 5000000);
                     publishProgress(DownloadCallback.Progress.PROCESS_INPUT_STREAM_SUCCESS, 0);
                 }
             } finally {
@@ -285,5 +286,16 @@ public class NetworkFragment extends Fragment {
             }
             return result;
         }
+
+
+    }
+
+    public static String getStringFromInputStream(InputStream stream) throws IOException {
+        int n = 0;
+        char[] buffer = new char[1024 * 4];
+        InputStreamReader reader = new InputStreamReader(stream, "UTF8");
+        StringWriter writer = new StringWriter();
+        while (-1 != (n = reader.read(buffer))) writer.write(buffer, 0, n);
+        return writer.toString();
     }
 }
