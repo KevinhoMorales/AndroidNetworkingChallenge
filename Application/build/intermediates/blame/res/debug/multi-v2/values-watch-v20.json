@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/kevinhomorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/bliss/.gradle/caches/transforms-2/files-2.1/316ddefab20f07f71d62c575ba46cf17/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

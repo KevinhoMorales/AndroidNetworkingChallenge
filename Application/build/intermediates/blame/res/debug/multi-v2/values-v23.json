@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/kevinhomorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/bliss/.gradle/caches/transforms-2/files-2.1/316ddefab20f07f71d62c575ba46cf17/res/values-v23/values-v23.xml",
+                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bliss/.gradle/caches/transforms-2/files-2.1/3496ed897478b5bf286e9000143159cd/res/values-v23/values-v23.xml",
+                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/98b0effcc566ee655717b1251c06aa83/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

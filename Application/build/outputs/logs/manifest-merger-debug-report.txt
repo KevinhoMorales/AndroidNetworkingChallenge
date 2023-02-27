@@ -1,167 +1,167 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
-MERGED from [com.android.support:support-v13:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/fdd378c02ba87d878011868294a98f30/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/36fe79c92c808121b80449d749b20616/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3496ed897478b5bf286e9000143159cd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/316ddefab20f07f71d62c575ba46cf17/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/d1e3aaab2e3c4b28b9ea13285868b36e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/04bc162094fa8fed653e2cdfe9fb55f9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/625c7c36609ab57062dd9e18bf398978/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/caf79a6b1480eb3836d92013326a6154/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/7ca036823c5853490b8a80806f6a5b11/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/5107f974effcc49bae442ba5faa8841c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/b14707bfcc06d8e6338fc5812e97055e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/8cf603094c06ccfc87ee2e28c4ec8dfe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/ce834c587c9bbdbfcea5ca101ee830ec/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/d855af3aa9ed4cbfde957962d320f684/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/f9c33042f32c450369005524ce26bd15/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/a12c743fbac9e2026df0cfb97b53972e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/39a7888136876bbc2a5fdffb25b556de/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/c865014077284d6533cb943be252eab9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/96854f33f56101dd708a78e3d1b05b64/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/176aa46f778decfbaf7d7eee207f8f55/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/9aa01b3950cb9249d8ef724f07b29048/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/6abdc8c9fb526db8b2d370a9ae1ee3b3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/9188be6173d706a1e52cca6a5028bdf7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/75672551ab29a8be19e543410f4d9157/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/549c34aaa6069781ed35fe5112959f04/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/1a6e14e9b330eb696e21c0aeb58066cd/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/c0231e4d83a7bdd50cfdfa29a378c4fb/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3b6ea11052a854d787d4fc5dce9c0580/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/bf758b97a31953f07e6ab0d4cf25db3e/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3f9fb7cee849483d734ee3aeb279574e/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:20:1-47:12
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:20:1-47:12
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:20:1-47:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fb89a5fa609977a8186006ec27b99c8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/89ae027a879d938234c4f132475e135e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/98b0effcc566ee655717b1251c06aa83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/8632bd6d79b67e2dc50b766624acca19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/37a3116dff6f5643c0841731b586f52c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/6f0d8aedee57d496e32e8400e9b737a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/ddd4572a87b44b88f7fa2666968d5cae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/4c1011f6d73dfa8817b5b42b469926af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/dadcf7c01a64b089558e55642f290363/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fb83ce851484c68d43cffca7af54ab0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/7b2197683ab1856b9661aca276b4ec0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/61304b2cbc39bc0d5f4a0e8727664193/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/84c8a3169d54b4de7f45e29f6b613036/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/b98c2473e9dcbcc144a600569a34b6cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/415e253f3fbbeae12257a046dc93d3ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/2d5d1d19a059b730e43bf1d37c922bcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/0632816d2ac873d26ed9b4cf792aed29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/e1763794bc940229f7fab96831f38f3a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/4803492b6b867f238ca5a943ccb8b8f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/782172bce83345c5187b9435c22b1c33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fe27b79a8c91efe89b64660c6e7a0f92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5986974db8b0fe7ca93ad2ca7d49636b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/99560806ca8f2b31b631d69526444f7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/d01088ccd653e147c3aa929c9d4623e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/a77f32e0e357b1a3fd92257c749b7b11/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/62b4af6b2c37acb302a9c8cef291a318/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/9a5f6594ce6bd5b4025d2a98b3239188/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/225ac582cdf84387beb8449ce21420e9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:20:1-47:12
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:20:1-47:12
 	package
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:22:5-49
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:22:5-49
 	android:versionName
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:24:5-30
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:24:5-30
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:21:5-63
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:21:5-63
 	android:versionCode
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:23:5-28
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:23:5-28
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:27:5-67
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:27:5-67
 	android:name
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:27:22-64
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:27:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:28:5-79
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:28:5-79
 	android:name
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:28:22-76
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:28:22-76
 application
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:30:5-46:19
-MERGED from [com.android.support:support-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/96854f33f56101dd708a78e3d1b05b64/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/96854f33f56101dd708a78e3d1b05b64/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/176aa46f778decfbaf7d7eee207f8f55/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/176aa46f778decfbaf7d7eee207f8f55/AndroidManifest.xml:22:5-23:19
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:30:5-46:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/e1763794bc940229f7fab96831f38f3a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/e1763794bc940229f7fab96831f38f3a/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/96854f33f56101dd708a78e3d1b05b64/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:31:9-41
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:31:9-41
 	android:icon
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:32:9-45
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:32:9-45
 	android:allowBackup
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:34:9-35
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:34:9-35
 	android:theme
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:33:9-44
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:33:9-44
 	android:networkSecurityConfig
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:35:9-69
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:35:9-69
 activity#com.example.android.networkconnect.MainActivity
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:36:9-45:20
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:36:9-45:20
 	android:label
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:38:13-45
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:38:13-45
 	android:uiOptions
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:39:13-57
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:39:13-57
 	android:name
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:37:13-75
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:37:13-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:41:13-44:29
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:41:13-44:29
 action#android.intent.action.MAIN
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:42:17-69
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:42:25-66
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:43:17-77
+ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml:43:27-74
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml:43:27-74
 uses-sdk
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v13:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/fdd378c02ba87d878011868294a98f30/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/fdd378c02ba87d878011868294a98f30/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/36fe79c92c808121b80449d749b20616/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/36fe79c92c808121b80449d749b20616/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3496ed897478b5bf286e9000143159cd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3496ed897478b5bf286e9000143159cd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/316ddefab20f07f71d62c575ba46cf17/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/316ddefab20f07f71d62c575ba46cf17/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/d1e3aaab2e3c4b28b9ea13285868b36e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/d1e3aaab2e3c4b28b9ea13285868b36e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/04bc162094fa8fed653e2cdfe9fb55f9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/04bc162094fa8fed653e2cdfe9fb55f9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/625c7c36609ab57062dd9e18bf398978/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/625c7c36609ab57062dd9e18bf398978/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/caf79a6b1480eb3836d92013326a6154/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/caf79a6b1480eb3836d92013326a6154/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/7ca036823c5853490b8a80806f6a5b11/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/7ca036823c5853490b8a80806f6a5b11/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/5107f974effcc49bae442ba5faa8841c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/5107f974effcc49bae442ba5faa8841c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/b14707bfcc06d8e6338fc5812e97055e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/b14707bfcc06d8e6338fc5812e97055e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/8cf603094c06ccfc87ee2e28c4ec8dfe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/8cf603094c06ccfc87ee2e28c4ec8dfe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/ce834c587c9bbdbfcea5ca101ee830ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/ce834c587c9bbdbfcea5ca101ee830ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/d855af3aa9ed4cbfde957962d320f684/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/d855af3aa9ed4cbfde957962d320f684/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/f9c33042f32c450369005524ce26bd15/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/f9c33042f32c450369005524ce26bd15/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/a12c743fbac9e2026df0cfb97b53972e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/a12c743fbac9e2026df0cfb97b53972e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/39a7888136876bbc2a5fdffb25b556de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/39a7888136876bbc2a5fdffb25b556de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/c865014077284d6533cb943be252eab9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/c865014077284d6533cb943be252eab9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/96854f33f56101dd708a78e3d1b05b64/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/96854f33f56101dd708a78e3d1b05b64/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/176aa46f778decfbaf7d7eee207f8f55/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/176aa46f778decfbaf7d7eee207f8f55/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/9aa01b3950cb9249d8ef724f07b29048/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/9aa01b3950cb9249d8ef724f07b29048/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/6abdc8c9fb526db8b2d370a9ae1ee3b3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/6abdc8c9fb526db8b2d370a9ae1ee3b3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/9188be6173d706a1e52cca6a5028bdf7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/9188be6173d706a1e52cca6a5028bdf7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/75672551ab29a8be19e543410f4d9157/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/75672551ab29a8be19e543410f4d9157/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/549c34aaa6069781ed35fe5112959f04/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/549c34aaa6069781ed35fe5112959f04/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/1a6e14e9b330eb696e21c0aeb58066cd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/bliss/.gradle/caches/transforms-2/files-2.1/1a6e14e9b330eb696e21c0aeb58066cd/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/c0231e4d83a7bdd50cfdfa29a378c4fb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/c0231e4d83a7bdd50cfdfa29a378c4fb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3b6ea11052a854d787d4fc5dce9c0580/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3b6ea11052a854d787d4fc5dce9c0580/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/bf758b97a31953f07e6ab0d4cf25db3e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/bf758b97a31953f07e6ab0d4cf25db3e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3f9fb7cee849483d734ee3aeb279574e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/bliss/.gradle/caches/transforms-2/files-2.1/3f9fb7cee849483d734ee3aeb279574e/AndroidManifest.xml:20:5-44
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fb89a5fa609977a8186006ec27b99c8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fb89a5fa609977a8186006ec27b99c8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/89ae027a879d938234c4f132475e135e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/89ae027a879d938234c4f132475e135e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/98b0effcc566ee655717b1251c06aa83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/98b0effcc566ee655717b1251c06aa83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/8632bd6d79b67e2dc50b766624acca19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/8632bd6d79b67e2dc50b766624acca19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/37a3116dff6f5643c0841731b586f52c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/37a3116dff6f5643c0841731b586f52c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/6f0d8aedee57d496e32e8400e9b737a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/6f0d8aedee57d496e32e8400e9b737a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/ddd4572a87b44b88f7fa2666968d5cae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/ddd4572a87b44b88f7fa2666968d5cae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/4c1011f6d73dfa8817b5b42b469926af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/4c1011f6d73dfa8817b5b42b469926af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/dadcf7c01a64b089558e55642f290363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/dadcf7c01a64b089558e55642f290363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fb83ce851484c68d43cffca7af54ab0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fb83ce851484c68d43cffca7af54ab0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/7b2197683ab1856b9661aca276b4ec0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/7b2197683ab1856b9661aca276b4ec0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/61304b2cbc39bc0d5f4a0e8727664193/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/61304b2cbc39bc0d5f4a0e8727664193/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/84c8a3169d54b4de7f45e29f6b613036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/84c8a3169d54b4de7f45e29f6b613036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/b98c2473e9dcbcc144a600569a34b6cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/b98c2473e9dcbcc144a600569a34b6cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/415e253f3fbbeae12257a046dc93d3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/415e253f3fbbeae12257a046dc93d3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/2d5d1d19a059b730e43bf1d37c922bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/2d5d1d19a059b730e43bf1d37c922bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/0632816d2ac873d26ed9b4cf792aed29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/0632816d2ac873d26ed9b4cf792aed29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/e1763794bc940229f7fab96831f38f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/e1763794bc940229f7fab96831f38f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/4803492b6b867f238ca5a943ccb8b8f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/4803492b6b867f238ca5a943ccb8b8f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/782172bce83345c5187b9435c22b1c33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/782172bce83345c5187b9435c22b1c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fe27b79a8c91efe89b64660c6e7a0f92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/fe27b79a8c91efe89b64660c6e7a0f92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5986974db8b0fe7ca93ad2ca7d49636b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5986974db8b0fe7ca93ad2ca7d49636b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/99560806ca8f2b31b631d69526444f7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/99560806ca8f2b31b631d69526444f7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/d01088ccd653e147c3aa929c9d4623e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/d01088ccd653e147c3aa929c9d4623e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/a77f32e0e357b1a3fd92257c749b7b11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/a77f32e0e357b1a3fd92257c749b7b11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/62b4af6b2c37acb302a9c8cef291a318/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/62b4af6b2c37acb302a9c8cef291a318/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/9a5f6594ce6bd5b4025d2a98b3239188/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/9a5f6594ce6bd5b4025d2a98b3239188/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/225ac582cdf84387beb8449ce21420e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/225ac582cdf84387beb8449ce21420e9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-		ADDED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/bliss/Downloads/connectivity-samples/NetworkConnect/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhomorales/AndroidNetworkingChallenge/Application/src/main/AndroidManifest.xml
