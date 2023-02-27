@@ -38,7 +38,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.Sample" >
         <activity
-            android:name="com.example.android.networkconnect.MainActivity"
+            android:name="com.example.android.networkconnect.main.MainActivity"
             android:label="@string/app_name"
             android:uiOptions="splitActionBarWhenNarrow" >
             <intent-filter>
