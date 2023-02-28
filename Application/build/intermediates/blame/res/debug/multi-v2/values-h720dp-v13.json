@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kevinhomorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "/Users/kevinmorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/Users/kevinmorales/.gradle/caches/transforms-2/files-2.1/8c8419506e51b3e84beb5b7a9cb0f58c/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

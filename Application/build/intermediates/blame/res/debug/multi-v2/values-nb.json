@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kevinhomorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
+            "outputFile": "/Users/kevinmorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
             "map": [
                 {
-                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/res/values-nb/values-nb.xml",
+                    "source": "/Users/kevinmorales/.gradle/caches/transforms-2/files-2.1/8c8419506e51b3e84beb5b7a9cb0f58c/res/values-nb/values-nb.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/res/values-nb/values-nb.xml",
+                    "source": "/Users/kevinmorales/.gradle/caches/transforms-2/files-2.1/d6023fee8f688e7730380c433263f468/res/values-nb/values-nb.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

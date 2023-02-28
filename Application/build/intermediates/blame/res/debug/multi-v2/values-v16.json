@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kevinhomorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/kevinmorales/AndroidNetworkingChallenge/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/cf9cb88d7e26912f45f651ab7a0fbb02/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/kevinhomorales/.gradle/caches/transforms-2/files-2.1/5512a27056e7a94fec5b26c04a3d7df1/res/values-v16/values-v16.xml",
+                    "source": "/Users/kevinmorales/.gradle/caches/transforms-2/files-2.1/8c8419506e51b3e84beb5b7a9cb0f58c/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/kevinmorales/.gradle/caches/transforms-2/files-2.1/d6023fee8f688e7730380c433263f468/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

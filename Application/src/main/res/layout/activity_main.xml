@@ -16,36 +16,66 @@
   limitations under the License.
   -->
 
-<LinearLayout
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
     <TextView
         android:id="@+id/intro_text"
-        android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:textSize="16sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:freezesText="true"
         android:text="@string/welcome_message"
-        android:freezesText="true"/>
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="1dp"
-        android:background="@android:color/darker_gray"/>
-    <TextView
-        android:id="@+id/data_text"
-        android:layout_weight="1"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/rick_and_morty_list_id"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:freezesText="true"/>
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="1dp"
-        android:background="@android:color/darker_gray"/>
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/character_id"
+        android:layout_height="0dp"
+        android:layout_below="@+id/intro_text"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="0dp"
         android:layout_weight="1"
-        android:layout_width="fill_parent"
-        android:layout_height="match_parent"/>
-</LinearLayout>
+        android:choiceMode="singleChoice"
+        android:scrollbars="vertical" />
+
+    <ProgressBar
+        android:id="@+id/spinner_id"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignStart="@+id/rick_and_morty_list_id"
+        android:layout_alignLeft="@+id/rick_and_morty_list_id"
+        android:layout_alignTop="@+id/intro_text"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp" />
+</RelativeLayout>
